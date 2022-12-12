@@ -1,4 +1,12 @@
 /* HeroesComponent's private CSS styles */
+
+.wrapper {
+  box-sizing: border-box;
+	max-width: 1000px;
+	padding: 19px;
+	margin-inline: auto;
+}
+
 .heroes {
   margin: 0 0 2em 0;
   list-style-type: none;

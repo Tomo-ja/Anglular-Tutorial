@@ -1,5 +1,12 @@
 /* HeroSearch private styles */
 
+div{
+	box-sizing: border-box;
+	max-width: 1000px;
+	padding: 19px;
+	margin-inline: auto;
+}
+
 label {
   display: block;
   font-weight: bold;
